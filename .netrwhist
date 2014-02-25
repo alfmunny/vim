@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/alfmunny/Documents/alfmunny.github.com/_theme_packages/twitter'
+let g:netrw_dirhist_2='/Users/alfmunny/Documents/alfmunny.github.com'
+let g:netrw_dirhist_3='/Users/alfmunny/Documents/alfmunny.github.com/pages/about'
